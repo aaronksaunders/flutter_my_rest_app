@@ -4,7 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application using rest API to render master detail application with ListBuilder and a FutureBuilder
+
+<img src="./Screen Shot 2019-08-31 at 7.11.59 PM.png" />
 
 A few resources to get you started if this is your first Flutter project:
 
